@@ -1,0 +1,64 @@
+{"intents":
+  [
+    {
+      "tag":"greeting",
+      "input":["hello techbot","hi techbot","hello","hi","hey there","hey","hi there","hi, nice to meet you","hi, nice to meet you","hi bot","hello bot","hi chatbot","hey bot","hi dude","hello dude"],
+      "responses":[
+          "Hi",
+          "Hey, How are you",
+          "Hi there",
+          "Hey yo",
+          "Hi you",
+          "Hello there , How are you doing ?",
+          "Hi random user , Techbot at your service",
+          "Hello my friend, How can I help you ?",
+          "Finally , A person to talk to",
+          "Ha , Glad you showed up. How are you ?"
+        ]
+    },
+    {
+      "tag":"goodbye",
+      "input":["bye","okay bye","goodbye","see you later","i will catch you later","i will catch up later","okay i will see you later","I will talk to you later","will text you later"],
+      "responses":[
+          "Okay, Bye",
+          "Have a nice day",
+          "Goodbye",
+          "see you later",
+          "nice conversation. bye",
+          "okay. Have a nice day",
+          "Nice chatting with you",
+          "Yeah Sure, Will talk to you later",
+          "Okay , Take care"
+        ]
+    },
+    {
+      "tag":"how am i",
+      "input":["how are you ?","I am fine , how are you ?","are you fine ?","how are things going on ?","everything going on okay ?","how's everything there ?","how's everything going on ?","is everything okay ?"],
+      "responses":[
+          "Yeah , I am fine",
+          "Everything's going on well",
+          "I am Fine",
+          "Doing good.Thanks you are my best friend",
+          "Things are Great",
+          "Yeah , I am doing Great",
+          "Things are going great",
+          "I am good , Thanks for asking",
+          "Yeah Fine, nothing much going on in my life",
+          "I am doing good. Life is boring"
+        ]
+    },
+    {
+      "tag":"whoareyou",
+    "input":["who are you ?","what are you ?","what is your name ?","are you a chatbot ?","what can I call you ?","your name ?","are you a bot ?","how do I address you ?","How do I call you"],
+      "responses":[
+          "I am a ChatBot , you can call me TechBot",
+          "I am TechBot",
+          "You can address me as TechBot. I am here to Chat with you",
+          "TechBot at your service",
+          "My name is TechBot and yes, I am a Bot",
+          "You can call me TechBot and I am here to Help you",
+          "Hello friend, TechBot here"
+        ]
+    }
+  ]
+}
